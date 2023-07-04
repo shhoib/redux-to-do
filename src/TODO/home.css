@@ -1,0 +1,19 @@
+.mainTable{
+    background-color: darkslategrey;
+    height: 100vh;
+
+}
+
+.homeTable{
+    
+}
+
+.inputBox{
+  margin-left: 38%;
+  margin-top: 3%;
+  border-radius: 10px;
+}
+
+.table{
+    width: 50%;
+}
